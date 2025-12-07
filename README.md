@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 web app link: https://wildfire-map-react.vercel.app
 github link : https://github.com/edilchristian/wildfire-map
 
@@ -20,3 +21,6 @@ How to Use:
 Open https://wildfire-map-react.vercel.app and press "OK" for the pop up box. Then click on any red fire icon and a box with the information regarding that wildfire will be seen. Zoom in and Zoom out to see the map for the whole world.
 
 
+=======
+# Wildfire_prediction
+>>>>>>> fc9be2e2c7239bb0b641d36c116e49ad08152b4d
